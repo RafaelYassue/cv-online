@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Rafael Yassue	
-description: Ph.D Candidate | ESALQ/USP 
+description: Ph.D Candidate | ESALQ/USP | Genetics and Plant Breeding
 
 baseurl: /cv-online #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
@@ -20,7 +20,7 @@ paginate_path: /blog/page:num/
 facebook: rafael.yassue
 twitter: RYassue
 linkedin: rafael-massahiro-yassue-41941865/
-github: rafael.yassue
+github: RafaelYassue
 researchgate: Rafael-Yassue
 orcid: 0000-0002-7424-2227
 
