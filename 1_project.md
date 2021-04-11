@@ -1,169 +1,20 @@
 ---
 layout: post
-title: Short 
-description: description of the short project which is long enough
+title: "Dr. Jekyll and Mr. Hyde"
 ---
 
-asd
+“My will? Yes, certainly, I know that,” said the doctor, a trifle sharply. “You have told me so.”
 
-Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+“Well, I tell you so again,” continued the lawyer. “I have been learning something of young Hyde.”
 
-H1 Header
-============
+The large handsome face of Dr. Jekyll grew pale to the very lips, and there came a blackness about his eyes. “I do not care to hear more,” said he. “This is a matter I thought we had agreed to drop.”
 
-rafael yassue
-Paragraphs are separated by a blank line.
+“What I heard was abominable,” said Utterson.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+“It can make no change. You do not understand my position,” returned the doctor, with a certain incoherency of manner. “I am painfully situated, Utterson; my position is a very strange--a very strange one. It is one of those affairs that cannot be mended by talking.”
 
-  * this one
-  * that one
-  * the other one
+“Jekyll,” said Utterson, “you know me: I am a man to be trusted. Make a clean breast of this in confidence; and I make no doubt I can get you out of it.”
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
+“My good Utterson,” said the doctor, “this is very good of you, this is downright good of you, and I cannot find words to thank you in. I believe you fully; I would trust you before any man alive, ay, before myself, if I could make the choice; but indeed it isn’t what you fancy; it is not as bad as that; and just to put your good heart at rest, I will tell you one thing: the moment I choose, I can be rid of Mr. Hyde. I give you my hand upon that; and I thank you again and again; and I will just add one little word, Utterson, that I’m sure you’ll take in good part: this is a private matter, and I beg of you to let it sleep.”
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
-
-
-H2 Header
-------------
-
-Here's a numbered list:
-
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-
-
-### An h3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-Name           Size  Material      Color
-------------- -----  ------------  ------------
-All Business      9  leather       brown
-Roundabout       10  hemp canvas   natural
-Cinderella       11  glass         transparent
-
-Table: Shoes sizes, materials, and colors.
-
-(The above is the caption for the table.) Pandoc also supports
-multi-line tables:
-
---------  -----------------------
-Keyword   Text
---------  -----------------------
-red       Sunsets, apples, and
-          other red or reddish
-          things.
-
-green     Leaves, grass, frogs
-          and other things it's
-          not easy being.
---------  -----------------------
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-
-oranges
-  : Citrus!
-
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](example-image.jpg "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
-
-And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+Utterson reflected a little, looking in the fire.
