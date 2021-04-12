@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Short 
+title: Publications 
 ---
 
-# Publications 
 
 ## Preprints
 
