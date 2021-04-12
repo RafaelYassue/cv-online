@@ -10,4 +10,5 @@ Develop and apply genomic selection models in plant breeding
 
 # Publications 
 
-1. Yassue, et al. CV-α: designing validations sets to increase the precision and enable multiple comparison tests in genomic prediction studies. [Preprint](http://dx.doi.org/10.1101/2020.11.11.376343)
+* Yassue RM, Sabadin J, Galli G, Alves FC,  Fritsche-Neto, R. 2020. “CV-α: Designing Validations Sets to Increase the Precision and Enable Multiple Comparison Tests in Genomic Prediction.” bioRxiv.  [Preprint](http://dx.doi.org/10.1101/2020.11.11.376343)
+
