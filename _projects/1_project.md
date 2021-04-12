@@ -6,7 +6,8 @@ description: High-throughput Phenotyping in Plant Breeding
 
 # High-throughput Phenotyping in Plant Breeding
 
-Click (here)[https://www.researchgate.net/project/High-throughput-Phenotyping-in-Plant-Breeding] for more information
+Develop and apply High-throughput Phenotyping methods in plant breeding 
+Click [here](https://www.researchgate.net/project/High-throughput-Phenotyping-in-Plant-Breeding) for more information
 
 # Publication
 
