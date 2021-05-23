@@ -6,7 +6,7 @@ title: Publications
 
 ## 2021
 
-* **Yassue RM**, Sabadin J, Galli G, Alves FC,  Fritsche-Neto, R. 2020. “CV-α: Designing Validations Sets to Increase the Precision and Enable Multiple Comparison Tests in Genomic Prediction.” Euphytica.  [Accepted](http://dx.doi.org/10.1101/2020.11.11.376343)
+* **Yassue RM**, Sabadin J, Galli G, Alves FC,  Fritsche-Neto, R. 2020. “CV-α: Designing Validations Sets to Increase the Precision and Enable Multiple Comparison Tests in Genomic Prediction.” Euphytica.  [doi](https://doi.org/10.1007/s10681-021-02831-x)
 
 ## 2020 
 
