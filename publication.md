@@ -6,6 +6,8 @@ title: Publications
 
 ## 2021
 
+* **Yassue RM**, Carvalho HF, Gevartosky R, et al.  On the genetic architecture in a public tropical maize panel of the symbiosis between corn and plant growth-promoting bacteria aiming to improve plant resilience. Molecular Breeding. [doi](https://doi.org/10.1007/s11032-021-01257-6)
+
 * Galli G, Sabadin Felipe, **Yassue RM**, Souza CG, Carvalho HF, Fritsche-Neto R. Automated Machine Learning: a case study of genomic “image-based” prediction in maize hybrids. Research Square (Preprint). [doi](https://doi.org/10.21203/rs.3.rs-840380/v2)
 
 
