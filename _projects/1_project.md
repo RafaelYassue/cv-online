@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Phenomics 
-description: High-throughput Phenotyping in Plant Breeding
+title: Maize breeding
+description: Maize breeding
 ---
 
-# High-throughput Phenotyping in Plant Breeding
+# Maize breeding
+Genetic architecture of the symbiosis between maize and plant growth-promoting bacteria
 
-Develop and apply High-throughput Phenotyping methods in plant breeding 
-Click [here](https://www.researchgate.net/project/High-throughput-Phenotyping-in-Plant-Breeding) for more information
 
 # Publications
 
-* **Yassue RM**, Galli G, Borsato-Junior R, Cheng H,  Morota G, Fritsche-Neto  R. 2021. “A low-cost greenhouse-based high-throughput phenotyping platform for genetic studies: a case study in maize under inoculation with plant growth-promoting bacteria” bioRxiv (Preprint).  [doi](https://doi.org/10.1101/2021.08.12.456112)
+* **Yassue RM**, Carvalho HF, Gevartosky R, et al.  On the genetic architecture in a public tropical maize panel of the symbiosis between corn and plant growth-promoting bacteria aiming to improve plant resilience. Molecular Breeding. [doi](https://doi.org/10.1007/s11032-021-01257-6)
 
