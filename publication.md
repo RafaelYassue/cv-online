@@ -2,14 +2,16 @@
 layout: post
 title: Publications 
 ---
+## 2023 
+
+* **Yassue RM**, Galli G, Fritsche-Neto  R, Chen CJ, Morota G. “Genome-wide association analysis of hyperspectral reflectance data to dissect growth-related traits genetic architecture in maize under inoculation with plant growth-promoting bacteria”. Plant Direct. (In press). 2023. [doi](https://doi.org/10.1101/2022.08.11.503682)
+
+
+* Bi Ye, **Yassue RM**, Paul P, Dhatt BK, Sandhu J, Phuc Do T, Walia H, Obata T, Morota G. Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice.  G3: Genes, Genomes, Genetics. 2023.[doi](https://doi.org/10.1093/g3journal/jkad052)
 
 ## 2022
 
-* Rocha LF, Benatti TR, de Siqueira L, de Souza ICG, Bianchin I, de Souza AJ, Fernandes ACM, Oda S, Stape JL, **Yassue RM**,  Carvalho HF. Quantitative trait loci related to growth and wood quality traits in Eucalyptus grandis W. Hill identified through single-and multi-trait genome-wide association studies.  Tree Genetics & Genomes, 2022.[doi](https://doi.org/10.1007/s11295-022-01570-x)
-
-* Bi Ye, **Yassue RM**, Paul P, Dhatt BK, Sandhu J, Phuc Do T, Walia H, Obata T, Morota G. Evaluating metabolic and genomic data for predicting grain traits under high night temperature stress in rice.  bioRxiv (Preprint), 2022.[doi](https://doi.org/10.1101/2022.10.27.514071)
-
-* **Yassue RM**, Galli G, Fritsche-Neto  R, Chen CJ, Morota G. 2022. “Genome-wide association analysis of hyperspectral reflectance data to dissect growth-related traits genetic architecture in maize under inoculation with plant growth-promoting bacteria”. biorxiv (Pre-print).  [doi](https://doi.org/10.1101/2022.08.11.503682)
+* Rocha LF, Benatti TR, de Siqueira L, de Souza ICG, Bianchin I, de Souza AJ, Fernandes ACM, Oda S, Stape JL, **Yassue RM**,  Carvalho HF. Quantitative trait loci related to growth and wood quality traits in Eucalyptus grandis W. Hill identified through single-and multi-trait genome-wide association studies.  Tree Genetics & Genomes. 2022.[doi](https://doi.org/10.1007/s11295-022-01570-x)
 
 * **Yassue RM**, Galli G, Fritsche-Neto  R, Morota G. 2022. “Classification of plant growth-promoting bacteria inoculation status and prediction of growth-related traits in tropical maize using hyperspectral image and genomic data”. Crop Science.  [doi](https://doi.org/10.1101/2022.03.04.483003)
 
