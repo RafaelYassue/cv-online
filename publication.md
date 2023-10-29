@@ -3,7 +3,7 @@ layout: post
 title: Publications 
 ---
 ## 2023 
-Campos, G.R., Prado, M., Reis Borges, K.L. et al. Construction and genetic characterization of an interspecific raspberry hybrids panel aiming resistance to late leaf rust and adaptation to tropical regions. Scientific Reports. 2023. [doi](https://doi.org/10.1038/s41598-023-41728-8)
+* Campos, G.R., Prado, M., Reis Borges, K.L. et al. Construction and genetic characterization of an interspecific raspberry hybrids panel aiming resistance to late leaf rust and adaptation to tropical regions. Scientific Reports. 2023. [doi](https://doi.org/10.1038/s41598-023-41728-8)
 
 
 * **Yassue RM**, Galli G, Fritsche-Neto  R, Chen CJ, Morota G. “Genome-wide association analysis of hyperspectral reflectance data to dissect growth-related traits genetic architecture in maize under inoculation with plant growth-promoting bacteria”. Plant Direct. (In press). 2023. [doi](https://doi.org/10.1101/2022.08.11.503682)
